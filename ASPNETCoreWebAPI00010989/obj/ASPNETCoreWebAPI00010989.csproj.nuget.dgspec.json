@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Valentina\\Desktop\\DistributedSystemsAndCloudComputingCourseWork\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989.csproj": {}
+    "C:\\Users\\Valentina\\Desktop\\SeminarSix\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Valentina\\Desktop\\DistributedSystemsAndCloudComputingCourseWork\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989.csproj": {
+    "C:\\Users\\Valentina\\Desktop\\SeminarSix\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Valentina\\Desktop\\DistributedSystemsAndCloudComputingCourseWork\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989.csproj",
+        "projectUniqueName": "C:\\Users\\Valentina\\Desktop\\SeminarSix\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989.csproj",
         "projectName": "ASPNETCoreWebAPI00010989",
-        "projectPath": "C:\\Users\\Valentina\\Desktop\\DistributedSystemsAndCloudComputingCourseWork\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989.csproj",
+        "projectPath": "C:\\Users\\Valentina\\Desktop\\SeminarSix\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989.csproj",
         "packagesPath": "C:\\Users\\Valentina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Valentina\\Desktop\\DistributedSystemsAndCloudComputingCourseWork\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989\\obj\\",
+        "outputPath": "C:\\Users\\Valentina\\Desktop\\SeminarSix\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.13, )"

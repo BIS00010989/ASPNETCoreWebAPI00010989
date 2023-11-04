@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rRq8QfYct4xSclzjDD/vvS6Ct6+g65MADk2XhhMoFZS9sLTyp1gLJUaRfSlo+F6Fn8QGGfdQCueLVe4ewX3uIQ==",
+  "dgSpecHash": "uQTzRnGYIXs5DF19t9xKcqR2jsrpvuvJRwSV8WWPjr/84xXctyOmqvp6PmH17OYHTcRO2k659DE4Nhbe/KUY6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Valentina\\Desktop\\DistributedSystemsAndCloudComputingCourseWork\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989.csproj",
+  "projectFilePath": "C:\\Users\\Valentina\\Desktop\\SeminarSix\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989\\ASPNETCoreWebAPI00010989.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Valentina\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Valentina\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
