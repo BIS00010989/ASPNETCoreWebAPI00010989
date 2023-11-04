@@ -1,5 +1,5 @@
-﻿[Unit]
-Description =.NET ASPNETCoreWebAPI00010989
+[Unit]
+Description=Some Desc
 
 [Service]
 WorkingDirectory=/var/www/
@@ -14,4 +14,4 @@ Environment=DOTNET_PRINT_TELEMETRY_MESSAGE=false
 Environment=ASPNETCORE_URLS=http://*:80
 
 [Install]
-Wanted=multi-user.target
+WantedBy=multi-user.target
